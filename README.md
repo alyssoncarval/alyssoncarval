@@ -19,9 +19,9 @@
 
 <!-- Apresentação -->
 
-### <img src="assets/icons/hello.gif" width="30px" height="30px"> Oi, meu nome é Alysson Carvalho!
+### <img src="assets/icons/hello.gif" width="30px" height="30px"> Hi, my name is Alysson Carvalho!
 
-<p>I have a degree in International Relations from <strong>UEPB</strong>, and my goal is to learn more and more about programming languages and develop my skills, in order to generate more value and solve business problems with greater assertiveness. I am determined to become an experienced<strong>Software Engineer</strong>.
+<p>I have a degree in International Relations from <strong>UEPB</strong>, and my goal is to learn more and more about programming languages and develop my skills, in order to generate more value and solve business problems with greater assertiveness. I am determined to become an experienced <strong>Software Engineer</strong>.
   
 <p>I invite you to visit my repositories, where you can see all my projects. Whether they are already developed or under development.
 
