@@ -1,33 +1,15 @@
-<!-- Link para o meu portfólio: -->
-<p align="center">
-    <a target="_blank" href="https://thiagosl.vercel.app">
-      <img src="./assets/favicon.webp" width="100px" align="center">
-      <h4 align="center">Visite meu portfólio! ☝🏼</h4>
-    </a>
-</p>
-
-<!-- Divisor animado em GIF: -->
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/57417305/81239377-13bd3c00-8fdb-11ea-9567-30a27becb1bf.gif">
-</p>
-  &nbsp;
-  <p align="center">
-  <!-- Badge - Profile View Counter -->
-   <img src="https://komarev.com/ghpvc/?username=Thiagoow&style=plastic&color=0007c4">
-</p>
-<p align="center">
   <!-- Badge - LinkedIn -->
-  <a href="https://www.linkedin.com/in/thiagosilvaloopes">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e00cf?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosilvaloopes">
+  <a href="https://www.linkedin.com/in/alyssoncarval">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e00cf?style=round-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alyssoncarval">
   </a>
   &nbsp;
   <!-- Badge - Email -->
-  <a href="mailto:thiagoslopes8@outlook.com">
-    <img src="https://img.shields.io/badge/-Meu%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:thiagodrive08@hotmail.com">
+  <a href="mailto:alyssonper@gmail.com">
+    <img src="https://img.shields.io/badge/-Meu%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:alyssonper@gmail.com">
   </a>
   &nbsp;
 <!-- Badge - My Settings -->
-  <a href="https://github.com/Thiagoow/My-Settings">
+  <a href="https://github.com/alyssoncarval/My-Settings">
     <img src="https://img.shields.io/badge/-Minhas%20Configs-06c91a?logo=visual-studio-code">
   </a>
  </p>
@@ -35,21 +17,7 @@
 <!-- Segunda Linha de Badges: -->
 
  <p align="center">
-<!-- Badge - Behance -->
-  <a href="https://www.behance.net/thiagoow">
-    <img src="https://img.shields.io/badge/-Projects%20de%20UI-381b82?logo=behance">
-  </a>
-   &nbsp;
-    <!-- Badge - Instagram 
-  <a href="https://www.instagram.com/thiagosilvaloopes">
-    <img src="https://img.shields.io/badge/-Instagram%20-ff7b00?style=round-square&logo=instagram&logoColor=white&link=https://www.instagram.com/thiagosilvaloopes/">
-  </a> -->
-    &nbsp;
-    <!-- Badge - DEV.to -->
-  <a href="https://dev.to/thiagoow">
-    <img src="https://img.shields.io/badge/-Meus%20Artigos%20-14171A?style=round-square&logo=dev.to&logoColor=white&link=https://dev.to/thiagoow">
-  </a>
-    
+
 </p>
 
 <!-- Apresentação -->
