@@ -31,7 +31,7 @@
 ### 🎯 Goals
 
 <p>📌 Master the most current and used languages/tools;</p>
-<p>📌 Getting my first job as a Junior, as a <strong>Front End developer</strong> or <strong>Back End.</strong> 🎆</p>
+<p>📌 Getting my first job as a Junior, as a <strong>Front End developer</strong> or <strong>Back End developer.</strong> 🎆</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
