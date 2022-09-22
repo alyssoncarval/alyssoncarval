@@ -7,10 +7,7 @@
   <a href="mailto:alyssonper@gmail.com">
     <img src="https://img.shields.io/badge/-Meu%20Email-ff0000?style=round-square&logo=microsoft-outlook&logoColor=white&link=mailto:alyssonper@gmail.com">
   </a>
-  &nbsp;
-<!-- Badge - My Settings -->
-  <a href="https://github.com/alyssoncarval/My-Settings">
-    <img src="https://img.shields.io/badge/-Minhas%20Configs-06c91a?logo=visual-studio-code">
+
   </a>
  </p>
  
@@ -22,10 +19,11 @@
 
 <!-- Apresentação -->
 
-### <img src="assets/icons/hello.gif" width="30px" height="30px"> Oi, meu nome é Thiago da Silva Lopes!
+### <img src="assets/icons/hello.gif" width="30px" height="30px"> Oi, meu nome é Alysson Carvalho!
 
-<p>Atualmente eu estudo Análise e Desenvolvimento de Sistemas na <strong> <a target="_blank" href="https://www.linkedin.com/company/fatec-zona-sul?originalSubdomain=br">Fatec Zona Sul</a></strong>, e minha meta é aprender cada vez mais. Para se tornar um <strong>experiente UI Designer</strong>, e <strong>Desenvolvedor Front End</strong>;</p>
-<p>Te convido a visitar meus repositórios e meu <strong><a target="_blank" href="https://www.behance.net/thiagosilval2">Perfil no Behance</a></strong>, onde você pode ver todos os meus projetos. Sejam eles já desenvolvidos, ou em desenvolvimento. Juntamente com as minhas habilidades em <strong>UX/UI, Front End e Back End. 🤟🏼😁☺</strong>
+<p>Atualmente eu sou formado em Relações Internacionais pela <strong>UEPB</strong>, e minha meta é aprender cada vez mais. Para me tornar um experiente<strong>Engenheiro de Software</strong>.
+  
+<p>Te convido a visitar meus repositórios, onde você pode ver todos os meus projetos. Sejam eles já desenvolvidos, ou em desenvolvimento.
 
 ---
 
@@ -40,7 +38,7 @@
 
 <p>📌 Dominar as linguagens/ferramentas mais atuais e utilizadas;</p>
 <p>📌 Se aprofundar cada vez mais na minha área profissional;</p>
-<p>📌 Atuar como <strong>Desenvolvedor Front End</strong> ou <strong>UI Designer.</strong> 🎆</p>
+<p>📌 Atuar como <strong>Desenvolvedor Front End</strong> ou <strong>Back End.</strong> 🎆</p>
 
 ---
 
