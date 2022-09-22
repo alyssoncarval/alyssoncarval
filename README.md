@@ -27,16 +27,11 @@
 
 ---
 
-<table align="right">
- <td>Idioma do Conteúdo:</td>
- <tr><td align="center"><a href="README.md">Inglês</a></td></tr>
- <tr><td align="center"><a href="README_PT-BR.md">Português</a></td></tr>
-</table>
 
-### 🎯 Objetivos
+### 🎯 Goals
 
-<p>📌 Dominar as linguagens/ferramentas mais atuais e utilizadas;</p>
-<p>📌 Atuar como <strong>Desenvolvedor Front End</strong> ou <strong>Back End.</strong> 🎆</p>
+<p>📌 Master the most current and used languages/tools;</p>
+<p>📌 Getting my first job as a Junior, as a <strong>Front End developer</strong> or <strong>Back End.</strong> 🎆</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
