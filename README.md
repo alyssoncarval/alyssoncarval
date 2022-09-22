@@ -21,7 +21,7 @@
 
 ### <img src="assets/icons/hello.gif" width="30px" height="30px"> Oi, meu nome é Alysson Carvalho!
 
-<p>Atualmente eu sou formado em Relações Internacionais pela <strong>UEPB</strong>, e minha meta é aprender cada vez mais sobre linguagens de progrmação e desenvolver minhas habilidades, para poder gerar mais valor e conseguir resolver problemas de negócio com maior assertividade. Estou determinado a me tornar um experiente<strong> Engenheiro de Software</strong>.
+<p>Atualmente eu sou formado em Relações Internacionais pela <strong>UEPB</strong>, e minha meta é aprender cada vez mais sobre linguagens de programação e desenvolver minhas habilidades, para assim, conseguir gerar mais valor e resolver problemas de negócio com maior assertividade. Estou determinado a me tornar um experiente<strong> Engenheiro de Software</strong>.
   
 <p>Te convido a visitar meus repositórios, onde você pode ver todos os meus projetos. Sejam eles já desenvolvidos, ou em desenvolvimento.
 
