@@ -27,7 +27,6 @@
 
 ---
 
-<!-- ReadMe em EN & PT-BR: -->
 <table align="right">
  <td>Idioma do Conteúdo:</td>
  <tr><td align="center"><a href="README.md">Inglês</a></td></tr>
