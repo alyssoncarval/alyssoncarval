@@ -37,7 +37,6 @@
 ### 🎯 Objetivos
 
 <p>📌 Dominar as linguagens/ferramentas mais atuais e utilizadas;</p>
-<p>📌 Se aprofundar cada vez mais na minha área profissional;</p>
 <p>📌 Atuar como <strong>Desenvolvedor Front End</strong> ou <strong>Back End.</strong> 🎆</p>
 
 ---
