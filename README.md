@@ -28,9 +28,8 @@
 ---
 
 
-### 🎯 Goals
+### 🎯 Goal
 
-<p>📌 Master the most current and used languages/tools;</p>
 <p>📌 Getting my first job as a Junior, as a <strong>Front End developer</strong> or <strong>Back End developer.</strong> 🎆</p>
 
 <div style="display: inline_block"><br>
