@@ -30,7 +30,7 @@
 
 ### 🎯 Goal
 
-<p>📌 Getting my first job as a Junior, as a <strong>Front End developer</strong> or <strong>Back End developer.</strong> 🎆</p>
+<p>📌 I seek to contribute in the long term to a company from my attributions as a <strong>Front End developer</strong> or <strong>Back End developer, as well as evolve as a professional and improve my skills within the technology area.</strong> 🎆</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alysson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
